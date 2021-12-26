@@ -13,7 +13,7 @@ import java.io.IOException;
 @CucumberOptions(
         features = "src/test/resources/features",
         //tags ="@seach_film"
-        tags ="@favoritos"
+        tags ="@auth"
 )
 
 public class Runner {
