@@ -1,5 +1,3 @@
-package runner;
-
 import io.appium.java_client.service.local.AppiumDriverLocalService;
 import io.cucumber.junit.CucumberOptions;
 import net.serenitybdd.cucumber.CucumberWithSerenity;
